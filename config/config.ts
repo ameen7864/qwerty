@@ -27,8 +27,11 @@ if (env === "production") {
 const config = {
   env,
   port: toNumber(`${process.env.PORT}`),
-  mongoUrl: `mongodb://${mongo.host}:${mongo.port}/${mongo.Db}`,
-  sessionUrl: `mongodb://${mongo.host}:${mongo.port}/${mongo.sessionDb}`,
+  mongoUrl:
+    "mongodb+srv://ameenahmedshariff:manubrothers@cluster0.0ejkjdw.mongodb.net/?retryWrites=true&w=majority",
+  sessionUrl:
+    "mongodb+srv://ameenahmedshariff:manubrothers@cluster0.0ejkjdw.mongodb.net/?retryWrites=true&w=majority",
+  // sessionUrl: `mongodb://${mongo.host}:${mongo.port}/${mongo.sessionDb}`,
   jwtSecret: `${process.env.JWT_SECRET}`,
   sessionSecret: `${process.env.SESSION_SECRET}`,
   apiBase: `${process.env.API_BASE}`,
