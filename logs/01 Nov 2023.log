@@ -5,3 +5,5 @@
 {"level":"error","message":{"msg":"404 - Not Found; url: /favicon.ico","success":false}}
 {"level":"info","message":"Listening on 4040"}
 {"level":"info","message":"Mongo connected to mongodb+srv://ameenahmedshariff:manubrothers@cluster0.0ejkjdw.mongodb.net/?retryWrites=true&w=majority"}
+{"level":"info","message":"Listening on 4040"}
+{"level":"info","message":"Mongo connected to mongodb+srv://ameenahmedshariff:manubrothers@cluster0.0ejkjdw.mongodb.net/?retryWrites=true&w=majority"}
