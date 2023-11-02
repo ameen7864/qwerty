@@ -45,5 +45,9 @@
     "razorpay": "^2.8.6",
     "winston": "^3.8.2",
     "winston-cloudwatch": "^6.1.1"
+  },
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=16.0.0 <18.0.0"
   }
 }
