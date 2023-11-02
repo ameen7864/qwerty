@@ -1,4 +1,0 @@
-{"level":"info","message":"Listening on 4040"}
-{"level":"info","message":"Listening on 4040"}
-{"level":"info","message":"Mongo connected to mongodb://localhost:27017/production"}
-{"level":"info","message":{"body":{},"headers":{"accept":"*/*","accept-encoding":"gzip, deflate, br","connection":"keep-alive","host":"localhost:4040","postman-token":"7f0e4e04-ef4c-44b4-86fa-73724f7cfbfc","user-agent":"PostmanRuntime/7.31.1"},"httpVersion":"1.1","method":"GET","originalUrl":"/blogs","query":{},"res":{"statusCode":200},"url":"/blogs"}}
